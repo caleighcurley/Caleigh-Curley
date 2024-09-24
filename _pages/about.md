@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello/Yá'áát'eeh/Lolama!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Caleigh Curley. I am a citizen of the Diné and Hopi Tribe; raised in Ganado, Arizona, within the Navajo Nation and now living on O’odam lands as a Doctoral Candidate in the Public Health Policy and Management Program at the University of Arizona (UArizona) Mel and Enid Zuckerman College of Public Health (MEZCOPH). I earned a Bachelor of Science in Biomedical Sciences and a Master of Public Health in Health Promotion from Northern Arizona University. My research explores the intersection of Indigenous health, public health policy, and data governance. I have over six years of experience working with Tribes, Tribal colleges and universities, Tribal organizations, and urban Indian organizations. I am passionate about improving the health of Tribal nations through health policy and look forward to learning more about policy development and analysis in my DrPH studies. My goal is to apply what I have learned to provide expert analysis, advice, and guidance to senior and political leadership on policy, regulatory, and legislative issues that have significant and direct impacts on the health of Indigenous Peoples. 
 
 A data-driven personal website
 ======
