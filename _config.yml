@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "Phoenix, AZ, USA"
-title                    : "Caleigh Curley"
+title                    : "Caleigh's Homepage"
 title_separator          : "-"
 name                     : &name "Caleigh Curley"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://caleighcurley.github.io/Caleigh-Curley/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
