@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Phoenix, AZ"
+locale                   : "Phoenix, AZ, USA"
 title                    : "Caleigh Curley"
 title_separator          : "-"
 name                     : &name "Caleigh Curley"
