@@ -12,12 +12,12 @@ Updated and co-taught a graduate course on Indigenous Research Ethics. Helped ex
 
 Course Description
 ======
-"https://indigenousdatalab.org/phpm-528-indigenous-research-and-ethics/"
+# url: "https://indigenousdatalab.org/phpm-528-indigenous-research-and-ethics/"
 
 Ethical Research with Indigenous Peoples: Doing Right by Respective Native Rights
 ======
-"https://nni.arizona.edu/news/ethical-research-with-indigenous-peoples-a-look-at-tribal-codes-11-23"
+# url: "https://nni.arizona.edu/news/ethical-research-with-indigenous-peoples-a-look-at-tribal-codes-11-23"
 
 Indigenous Health Education, Programs, and Research
 ======
-"https://publichealth.arizona.edu/outreach/indigenous-health-public-health-education-programs-and-research"
+# url: "https://publichealth.arizona.edu/outreach/indigenous-health-public-health-education-programs-and-research"
