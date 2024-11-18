@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Phoenix, AZ"
-title                    : "Caleigh Curley/ Research Program Administrator"
+title                    : "Caleigh Curley"
 title_separator          : "-"
 name                     : &name "Caleigh"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Caleigh Curley"
   pronouns         : "she/her"  
-  bio              : "Doctoral Candidate"
+  bio              : "Doctoral Candidate | Research Program Administrator 
   location         : "Phoenix, AZ"
   employer         : "University of Arizona"
   uri              : # URL
