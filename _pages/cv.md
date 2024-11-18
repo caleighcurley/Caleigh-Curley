@@ -42,12 +42,13 @@ Patient Empowerment program to determine the fidelity and implementation of a 2%
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Project Management
+* Community Based Participatory Research
+  * Community Engagement
+  * Mixed Methods
+  * Data Management
+  * Data Analysis
+* Program Evaluation
 
 Publications
 ======
