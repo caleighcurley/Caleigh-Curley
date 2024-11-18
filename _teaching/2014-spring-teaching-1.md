@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Arizona, College of Public Health"
-date: 08/1/2023
+date: 2023-08-01
 location: "Tucson, AZ, USA"
 ---
 Updated and co-taught a graduate course on Indigenous Research Ethics. Helped expand course design to be intersectional and multi-disciplinary. Contributed to content and experiences on Indigenous ways of knowing, research, and data policy and practice. 
