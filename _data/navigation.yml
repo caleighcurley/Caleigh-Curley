@@ -9,21 +9,14 @@ main:
     url: /publications/
     # url: https://scholar.google.com/citations?user=sHMVu_MAAAAJ&hl=en
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /teaching/ 
+    # url: https://udallcenter.arizona.edu/news/introducing-2024-mos-policy-scholars
+    # url: https://healthsciences.arizona.edu/connect/stories/guiding-next-generation-students-indigenous-policy
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    url: /files/CCurley_Curriculum Vitae.pdf
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/CCurley_CV.pdf
+
+  - title: "Blog Posts"
+    url: /year-archive/
