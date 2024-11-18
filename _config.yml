@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Doctoral Candidate"
   location         : "Phoenix, AZ"
-  employer         : "University of Arizoan"
+  employer         : "University of Arizona"
   uri              : # URL
   email            : "ccurley@arizona.edu" 
 
@@ -36,8 +36,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-2395-7361"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : "https://scholar.google.com/citations?hl=en&tzom=420&user=sHMVu_MAAAAJ"
+  researchgate     : "https://www.researchgate.net/profile/Caleigh-Curley"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
