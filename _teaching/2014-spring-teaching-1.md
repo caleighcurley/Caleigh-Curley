@@ -10,7 +10,7 @@ location: "Tucson, AZ, USA"
 Updated and co-taught a graduate course on Indigenous Research Ethics. Helped expand course design to be intersectional and multi-disciplinary. Contributed to content and experiences on Indigenous ways of knowing, research, and data policy and practice. 
 
 
-Cataloh Description
+Catalog Description
 ======
 This course examines research ethics and review processes through an Indigenous lens. Utilizing research and ethics frameworks from a diverse array of disciplines and geographies, this course explores the history of research and ethics by, with, and for Indigenous Peoples, communities, and nations. We will investigate Indigenous research frameworks, the intersection of Indigenous methodologies and research ethics, data typologies and practices, open-source data ethical considerations, and intersectional relationships for systemic change.
 
