@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Indigenous Research Ethics"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Arizona, College of Public Health"
+date: Fall 2023
+location: "Tucson, AZ, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+-	Updated and co-taught a graduate course on Indigenous Research Ethics. Helped expand course design to be intersectional and multi-disciplinary. Contributed to content and experiences on Indigenous ways of knowing, research, and data policy and practice. 
+
 
 Heading 1
 ======
