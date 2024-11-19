@@ -2,7 +2,7 @@
 title: "Examining Indigenous identity as a protective factor in mental well-being research in the United States: A scoping review"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: '/files/Examining Indigenous Identity as a Protective Factor in Mental Well-Being Research in the United States- A Scoping Review.pdf'
 date: 2024-10-17
 venue: 'Journal of Environmental Research and Public Health'
 paperurl: 'http://academicpages.github.io/files/'
