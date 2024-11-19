@@ -9,5 +9,4 @@ slidesurl: 'files/Examining Indigenous Identity as a Protective Factor in Mental
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Carson, W. O., Curley, C., Goldtooth-Halwood, R., McClelland, D. J., Carroll, S. R., Yuan, N. P., Carvajal, S., & Cordova-Marks, F. M. (2024). &quot;Examining Indigenous identity as a protective factor in mental well-being research in the United States: A scoping review.&quot; <i>International Journal of Environmental Research and Public Health </i>. 21(11), 1404.=.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+url: "files/Examining Indigenous Identity as a Protective Factor in Mental Well-Being Research in the United States- A Scoping Review.pdf"
