@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "The Navajo Nation Healthy Diné Nation Act: Community Support of a 2% Tax on Unhealthy Foods"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
