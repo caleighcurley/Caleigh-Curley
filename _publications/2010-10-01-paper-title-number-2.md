@@ -1,7 +1,7 @@
 ---
 title: "Indigenous data governance brief"
 collection: publications
-category: policy brief
+category: manuscript
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2024-04-01
 venue: 'United States Indigenous Data Sovereignty Network'
