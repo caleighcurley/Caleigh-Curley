@@ -9,4 +9,3 @@ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Garba, I., Sterling, R., Plevel, R., Carson, W., Cordova-Marks, F. M., Cummins, J., Curley, C., David-Chavez, D., Fernandez, A., Hiraldo, D., Hiratsuka, V., Hudson, M., Jäger, M. B., Jennings, L. L., Martinez, A., Yracheta, J., Garrison, N. A., & Carroll, S. R. (2023). &quot;Indigenous Peoples and research: Self-determination in research governance.&quot; <i>Frontiers in Research Metrics and Analytics </i>. 8,1272318.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
