@@ -11,12 +11,13 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-    # url: https://udallcenter.arizona.edu/news/introducing-2024-mos-policy-scholars
-    # url: https://healthsciences.arizona.edu/connect/stories/guiding-next-generation-students-indigenous-policy
         
+  - title: "Talks"
+    url: /talks/
+    
   - title: "CV"
     url: /cv/
     url: /files/CCurley_Curriculum Vitae (shortened).pdf
-
+    
   - title: "Blog Posts"
     url: /year-archive/
