@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Caleigh Curley"
 description              : &description "personal description"
 url                      : 'https://caleighcurley.github.io/Caleigh-Curley/'
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : 'https://caleighcurley.github.io/Caleigh-Curley/'
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=420&user=sHMVu_MAAAAJ"
   impactstory      : # URL  
   orcid            : "https://orcid.org/0000-0002-2395-7361"
-  semantic         : # URL
+  semantic         : "https://caleighcurley.github.io/Caleigh-Curley/"
   pubmed           : "https://scholar.google.com/citations?hl=en&tzom=420&user=sHMVu_MAAAAJ"
   researchgate     : "https://www.researchgate.net/profile/Caleigh-Curley"
 
