@@ -23,8 +23,10 @@ author:
   # Biographic information
   avatar           : "2024_Roots_of_resilience (11 of 43)_pp.jpg"
   name             : "Caleigh Curley"
-  pronouns         : "she/her"  
-  bio              : "DrPH Doctoral Candidate | Research Program Administrator"
+  pronouns         : "she/her/hers"  
+  bio              : "DrPH Doctoral Candidate"
+  title_separator  : "-"
+  bio              : "Research Program Administrator"
   location         : "Phoenix, AZ, USA"
   employer         : "University of Arizona"
   uri              : 'https://caleighcurley.github.io/Caleigh-Curley/'
