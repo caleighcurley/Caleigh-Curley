@@ -12,8 +12,8 @@ title                    : "Caleigh's Homepage"
 title_separator          : "-"
 name                     : &name "Caleigh Curley"
 description              : &description "personal description"
-url                      : 'https://caleighcurley.github.io/Caleigh-Curley/'
-baseurl                  : 'https://caleighcurley.github.io/Caleigh-Curley/'
+url                      : https://caleighcurley.github.io/Caleigh-Curley/
+baseurl                  : #
 repository               : "caleighcurley/Caleigh-Curley"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
