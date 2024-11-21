@@ -14,7 +14,7 @@ name                     : &name "Caleigh Curley"
 description              : &description "personal description"
 url                      : 'https://caleighcurley.github.io/Caleigh-Curley/'
 baseurl                  : 'https://caleighcurley.github.io/Caleigh-Curley/'
-repository               : "academicpages/academicpages.github.io"
+repository               : "caleighcurley/Caleigh-Curley"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
